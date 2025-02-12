@@ -1,4 +1,12 @@
 ﻿# vinniciuscastro
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/vinnicius-castro/)](https://www.linkedin.com/in/vinnicius-castro/)
+[![GitHub followers](https://img.shields.io/github/followers/roger18gm?label=Follow&style=social)](https://github.com/vinniciuscastro/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-vcastroengineer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcastroegineer@gmail.com)](mailto:vcastroengineer@gmail.com)
+ 
+-------
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 Senior Software Engineering Student | Passionate About Quality Assurance | Seeking Full-Time Opportunities
 
 
