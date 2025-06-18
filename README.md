@@ -23,3 +23,5 @@ Throughout my academic journey, I have participated in and created Python, C#, J
 My work style is detail-oriented and supportive. I’m passionate about collaborative work and firmly believe that quality outcomes stem from collective efforts. I care deeply about self-development, and this need to better myself is reflected in my work. Therefore, I’m always looking for ways to improve processes and results. 
 
 Looking ahead, I aspire to have an opportunity to contribute professionally and develop my skills and expertise as a Software Engineer.
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinniciuscastro&theme=juicyfresh&no-bg=true" />
