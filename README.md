@@ -7,8 +7,11 @@
 | ![Vinnie's commit stats](https://github-readme-stats.vercel.app/api?username=vinniciuscastro&theme=algolia&count_private=true&show_icons=true)     |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinniciuscastro&theme=algolia&layout=compact) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=vinniciuscastro.vinniciuscastro) <a href="https://www.linkedin.com/in/vinnicius-castro/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> |
 | ---- | ---- | ---- |
 # Hi, I'm Vinnie 👋
-## 🚀 About Me
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+
+## 🚀 About Me
 
 Senior Software Engineering Student | Passionate About Quality Assurance | Seeking Full-Time Opportunities
 
