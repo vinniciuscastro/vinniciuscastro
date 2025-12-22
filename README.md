@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-Senior Software Engineering Student | Passionate About Quality Assurance | Seeking Full-Time Opportunities
+Senior Software Engineering New Grad | Passionate About Quality Assurance | Seeking Full-Time Opportunities
 
 
-I'm a senior student at Brigham Young University - Idaho, majoring in Software Engineering with an emphasis on Quality Assurance.
+I'm a newly graduated student from Brigham Young University - Idaho, majoring in Software Engineering with an emphasis on Quality Assurance.
 
 Throughout my academic journey, I have participated in and created Python, C#, JavaScript, and SQL projects. I have also written CMM plans, testing reports, and risk mitigation plans. 
 
@@ -25,3 +25,4 @@ My work style is detail-oriented and supportive. I’m passionate about collabor
 Looking ahead, I aspire to have an opportunity to contribute professionally and develop my skills and expertise as a Software Engineer.
 
 <img src="https://github-profile-trophy.vercel.app/?username=vinniciuscastro&theme=juicyfresh&no-bg=true" />
+
