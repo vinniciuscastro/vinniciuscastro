@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Senior Software Engineering New Grad | Passionate About Quality Assurance | Seeking Full-Time Opportunities
+Software Engineering New Grad | Passionate About Quality Assurance | Seeking Full-Time Opportunities
 
 
 I'm a newly graduated student from Brigham Young University - Idaho, majoring in Software Engineering with an emphasis on Quality Assurance.
@@ -25,4 +25,5 @@ My work style is detail-oriented and supportive. I’m passionate about collabor
 Looking ahead, I aspire to have an opportunity to contribute professionally and develop my skills and expertise as a Software Engineer.
 
 <img src="https://github-profile-trophy.vercel.app/?username=vinniciuscastro&theme=juicyfresh&no-bg=true" />
+
 
